@@ -105,7 +105,7 @@ Follow these steps to set up and run the "Real-Time Context-Aware AI Agents: Sea
    ```
    This command installs all the necessary Python packages listed in the requirements.txt file.
 
-## 🏃 Run - Hands-On Guide: Real-Time Context-Aware AI Agents: Searching, Scraping, and Synthesizing for Precision
+## 🏃 Run - Hands-On Guide: Real-Time Context-Aware AI Agents:
 
    ```bash 
    # Run 
